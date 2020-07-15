@@ -1,5 +1,6 @@
 :root{
     --title-color:#322153;
+    --primary-color:#34cb79
 }
 
 
@@ -94,4 +95,30 @@ font-family: 'Ubuntu', sans-serif;
     font-size: 24px;
     line-height: 38px;
     margin-top: 24px;
+}
+
+#page-home main a{
+    width: 100%;
+    max-width: 360px;
+    height: 72px;
+    border-radius: 8px 25px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    background-color: var(--primary-color);
+    transition: 400ms;
+    font-weight: bold;
+    color: white;
+}
+
+#page-home main a:hover{
+    background-color: #2fb86e;
+
+}
+
+#page-home main a span{
+    width: 72px;
+    height: 72px;
+    background-color: rgba(0,0,0,0.08);
+
 }
