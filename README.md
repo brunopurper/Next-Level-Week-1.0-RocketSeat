@@ -27,3 +27,11 @@ A NLW (Next Level Week), é um evento online com conteúdo prático, desafios e 
 
 # Meu aprendizado (dia 1):
 
+Foi apresnetado todas as tecnologias que vamos usar para fazer um projeto chamado Ecoleta. 
+
+- [ ] HTML 5
+- [ ] CSS3
+- [ ] JavaScript 
+
+A medida que for passando os dias da semana, irei riscar as tecnologias que me sinto dominando melhor para o projeto da Ecoleta!
+
