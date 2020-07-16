@@ -101,7 +101,33 @@ Foto de como ficou o site do Ecoleta.
 
 ***
 
+# Meu aprendizado (dia 2):
 
+Foi apresnetado todas as tecnologias que vamos usar para fazer um projeto chamado Ecoleta. 
+
+- [x] HTML 5
+- [ ] CSS3 (Começando a ficar menos abstratos os conceitos)
+- [ ] JavaScript 
+
+Como disse, ia documentar toda minha evolução, aqui vai. 
+Mesmo fazendo o mesmo código da aula, meu site ficou diferente do apresentado, e consegui resolver sozinho meu problema, se está certo ou não, só o tempo dirá, mas fiquei feliz que consegui resolver por mim mesmo. Minha box de formuário não estava centralizada com a tela, então utilizei dos conceitos de margin left e right para fazer esse alinhamento automaticamente. 
+
+```
+    form {
+    
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    /* Preenchimento*/
+    padding: 64px;
+    margin-top: 80px;
+    border-radius: 8px;
+    max-width: 730px;
+    box-sizing: border-box;
+}
+```
+
+Fui introduzido ao uma nova forma de fazer formulários, e também a uma plataforma chamada codepen.io
 
 
 
