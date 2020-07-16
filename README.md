@@ -97,6 +97,10 @@ Resumindo, as coisas estão ficando menos asustadoras quanto eu achei a alguns m
 
 Foto de como ficou o site do Ecoleta. 
 
+![](https://media.discordapp.net/attachments/693847128061247592/733130138023362560/SITE01.png?width=960&height=497)
+
+***
+
 
 
 
