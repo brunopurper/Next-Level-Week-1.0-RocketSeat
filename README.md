@@ -3,7 +3,7 @@
 
 
 
-![Next Level Week](img/nwl.svg)
+![](https://blog.rocketseat.com.br/content/images/2020/06/ecoleta.png)
 
 
 
@@ -29,7 +29,7 @@ A NLW (Next Level Week), é um evento online com conteúdo prático, desafios e 
 
 Foi apresnetado todas as tecnologias que vamos usar para fazer um projeto chamado Ecoleta. 
 
-- [ ] HTML 5
+- [ X ] HTML 5
 - [ ] CSS3
 - [ ] JavaScript 
 
